@@ -9,6 +9,8 @@
 ## Projects
 
 ### Shikisai 〜感情の木〜
+<img width="1900" height="910" alt="スクリーンショット 2026-09-19 113604" src="https://github.com/user-attachments/assets/29c12dec-9b0d-4a5e-a056-1b1067104ef7" />
+
 
 > 一日の感情を、一つの答えではなく、重なり合う色として残す。
 
@@ -23,6 +25,8 @@ MVPを完成させ、現在は本リリースに向けて開発を進めてい�
 ## Mini Apps
 
 ### はじめの5分集中タイマー
+<img width="1920" height="868" alt="スクリーンショット 2026-04-12 090643" src="https://github.com/user-attachments/assets/4f1f444b-adf7-4d15-964b-cbaa2fe3c242" />
+
 
 勉強や作業を始めるきっかけを作るための、ポモちゃん・ドロちゃんをモチーフにした集中タイマーです。
 
